@@ -13,3 +13,7 @@ This is currently a solo project, but contributions are welcome:
 ## Resources
 I have not yet written anything about the documentation as I'm thinking I'll complete the engine first and then start on the docs!
 You can still get some info by the default examples.
+
+# Contacts
+* Email: zepyxunderscore@gmail.com
+* Discord Server: [Alkane Framework](https://discord.gg/42JW6pJygu)
